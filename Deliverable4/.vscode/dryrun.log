@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/mnt/c/Users/batur/OneDrive/Desktop/baturalpk/Baccalaureate/3.2 - Spring 21_22/CMPE 382/Assignment Files/CMPE382_HW2/Deliverable4'
+gcc -Wall -o wserver wserver.o request.o io_helper.o -pthread
+ 
+make: Leaving directory '/mnt/c/Users/batur/OneDrive/Desktop/baturalpk/Baccalaureate/3.2 - Spring 21_22/CMPE 382/Assignment Files/CMPE382_HW2/Deliverable4'
+ 
